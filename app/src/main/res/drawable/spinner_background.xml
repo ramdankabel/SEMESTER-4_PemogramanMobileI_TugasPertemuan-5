@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <solid android:color="#FFFFFF"/>
+    <stroke
+        android:width="1dp"
+        android:color="#BDBDBD"/>
+    <corners android:radius="8dp"/>
+</shape>
+    ```
+
+    6. **Save** (Ctrl+S)
+
+    Setelah itu struktur folder kamu akan jadi seperti ini:
+    ```
+    res/
+    └── drawable/
+    ├── ic_launcher_background.xml
+    ├── ic_launcher_foreground.xml
+    └── spinner_background.xml   ← ini yang baru
